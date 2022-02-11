@@ -22,7 +22,8 @@ Here are a couple of things to keep in mind:
 
 ## Resources
 
-This lab will have starter code provided. Work with your instructor directly to gain access to this code.
+This lab will have starter code provided. Work with your instructor directly to gain access to this code. <br>
+Had help from Cole with some of the code :) 
 
 ### Submission Instructions
 
